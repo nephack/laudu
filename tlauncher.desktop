@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=tlauncher
+Exec=java -jar '/home/Arcade/sacro/TLauncher-2.899.jar'
+Type=Application
+Comment=saroj dada
+Categories=Games;
+Terminal=false
+StartupNotify=true
